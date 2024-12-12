@@ -1,0 +1,15 @@
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\bin\Debug\net8.0\laba2 tetirovanie.exe
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\bin\Debug\net8.0\laba2 tetirovanie.deps.json
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\bin\Debug\net8.0\laba2 tetirovanie.runtimeconfig.json
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\bin\Debug\net8.0\laba2 tetirovanie.dll
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\bin\Debug\net8.0\laba2 tetirovanie.pdb
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.AssemblyInfoInputs.cache
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.AssemblyInfo.cs
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.csproj.CoreCompileInputs.cache
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.dll
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\refint\laba2 tetirovanie.dll
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.pdb
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.genruntimeconfig.cache
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\ref\laba2 tetirovanie.dll
+C:\Users\soroka-d\Desktop\laba2-tetirovanie-master\laba2 tetirovanie\obj\Debug\net8.0\laba2 tetirovanie.csproj.AssemblyReference.cache
